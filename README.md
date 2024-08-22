@@ -22,9 +22,7 @@ MoviesGo is a Graphical User Interface that recommends movies to users based on 
 
 Download the zip folder from github- and open it in any python IDE
 
-```bash
-  https://github.com/Ritikmg/MoviesGo--movie_recommender-.git
-```
+
 
 Install dependencies
 
@@ -62,9 +60,4 @@ Click on the below youtube icon for the complete knowledge of our interface-
 https://www.omdbapi.com/
 
 
-## Team Members -
-Ritik Goyal , Rohit Raj and Anuj Dhanger
-## Acknowledgements
-
- - AlgoZenith Internal Hackathon
 
